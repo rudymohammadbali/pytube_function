@@ -26,7 +26,7 @@ Powered by Pytube, this YouTube downloader function is capable of downloading vi
 ```
 ## Usage/Examples
 
-```pyton
+```python
 from pytube_function import PytubeFunction
 
 download_folder = str(Path.home() / "Downloads")
